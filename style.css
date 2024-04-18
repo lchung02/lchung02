@@ -1,0 +1,83 @@
+.cherry{
+	background-color: #FFE5EC;
+	font-family: monospace;
+	h1{
+		text-align: center;
+		background-color: #ECA9BE;
+	}
+	p{
+		border: 5px dotted #ECA9BE;
+	}
+	ul{
+		background-color: #ECA9BE;
+	}
+	li{
+		font-size: 15px;
+		
+	}
+}
+.badlands{
+	background-color: #EADBB2;
+	font-family: monospace;
+	h1{
+		text-align: center;
+		background-color: #ECC7A9;
+	}
+	p{
+		border: 5px dotted #ECC7A9;
+	}
+	ul{
+		background-color: #ECC7A9;
+	}
+	li{
+		font-size: 15px;
+		
+	}
+}
+.mine{
+	background-color: #C3EAB2;
+	font-family: monospace;
+	h1{
+		text-align: center;
+		background-color: #A9CEEC;
+	}
+	p{
+		border: 5px dotted #A9CEEC;
+	}
+	ul{
+		background-color: #A9CEEC;
+	}
+	li{
+		font-size: 15px;
+		
+	}
+}
+.snow{
+	background-color: #A9CEEC;
+	font-family: monospace;
+	h1{
+		text-align: center;
+		background-color: #7AA2C4;
+	}
+	p{
+		border: 5px dotted #7AA2C4
+	}
+	ul{
+		background-color: #7AA2C4;
+	}
+	li{
+		font-size: 15px;
+		
+	}
+}
+.center{
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+  	width: 50%;
+}
+li {
+	display: inline-block;
+	margin: 10px;
+	list-style: none;
+}
